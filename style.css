@@ -43,6 +43,7 @@
 .photo-grid-container {
   display: flex;
   justify-content: center;
+  background-color: #d6e9fe;
 }
 
 .photo-grid {
@@ -55,7 +56,6 @@
 }
 
 .photo-grid-item {
-  border: 1px solid #fff;
   width: 300px;
   height: 300px;
 }
@@ -78,7 +78,6 @@
 }
 
 .footer-item {
-  border: 1px solid #fff;
   background-color: #d6e9fe;
   height: 200px;
   flex: 1;
